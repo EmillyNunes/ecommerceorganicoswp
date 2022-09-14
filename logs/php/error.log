@@ -1,0 +1,19 @@
+[14-Sep-2022 15:28:52 UTC] PHP Warning:  Use of undefined constant NONCE_SALT - assumed 'NONCE_SALT' (this will throw an Error in a future version of PHP) in /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/Shortcode/Shortcode.php on line 254
+[14-Sep-2022 15:28:52 UTC] PHP Stack trace:
+[14-Sep-2022 15:28:52 UTC] PHP   1. {main}() /Users/emilly/Local Sites/orgnicos/app/public/wp-admin/post.php:0
+[14-Sep-2022 15:28:52 UTC] PHP   2. require_once() /Users/emilly/Local Sites/orgnicos/app/public/wp-admin/post.php:12
+[14-Sep-2022 15:28:52 UTC] PHP   3. do_action() /Users/emilly/Local Sites/orgnicos/app/public/wp-admin/admin.php:419
+[14-Sep-2022 15:28:52 UTC] PHP   4. WP_Hook->do_action() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/plugin.php:476
+[14-Sep-2022 15:28:52 UTC] PHP   5. WP_Hook->apply_filters() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/class-wp-hook.php:331
+[14-Sep-2022 15:28:52 UTC] PHP   6. Elementor\Core\Editor\Editor->init() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/class-wp-hook.php:307
+[14-Sep-2022 15:28:52 UTC] PHP   7. Elementor\Core\Editor\Editor->print_editor_template() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/elementor/core/editor/editor.php:163
+[14-Sep-2022 15:28:52 UTC] PHP   8. include() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/elementor/core/editor/editor.php:322
+[14-Sep-2022 15:28:52 UTC] PHP   9. wp_footer() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php:66
+[14-Sep-2022 15:28:52 UTC] PHP  10. do_action() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/general-template.php:3058
+[14-Sep-2022 15:28:52 UTC] PHP  11. WP_Hook->do_action() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/plugin.php:476
+[14-Sep-2022 15:28:52 UTC] PHP  12. WP_Hook->apply_filters() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/class-wp-hook.php:331
+[14-Sep-2022 15:28:52 UTC] PHP  13. Elementor\Core\Editor\Editor->wp_footer() /Users/emilly/Local Sites/orgnicos/app/public/wp-includes/class-wp-hook.php:307
+[14-Sep-2022 15:28:52 UTC] PHP  14. Elementor\Widgets_Manager->render_widgets_content() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/elementor/core/editor/editor.php:831
+[14-Sep-2022 15:28:52 UTC] PHP  15. Nextend\SmartSlider3\Platform\WordPress\Integration\Elementor\ElementorWidgetSmartSlider->print_template() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/elementor/includes/managers/widgets.php:488
+[14-Sep-2022 15:28:52 UTC] PHP  16. Nextend\SmartSlider3\Platform\WordPress\Integration\Elementor\ElementorWidgetSmartSlider->content_template() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/elementor/includes/base/controls-stack.php:1955
+[14-Sep-2022 15:28:52 UTC] PHP  17. Nextend\SmartSlider3\Platform\WordPress\Shortcode\Shortcode::renderIframe() /Users/emilly/Local Sites/orgnicos/app/public/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Platform/WordPress/Integration/Elementor/ElementorWidgetSmartSlider.php:66

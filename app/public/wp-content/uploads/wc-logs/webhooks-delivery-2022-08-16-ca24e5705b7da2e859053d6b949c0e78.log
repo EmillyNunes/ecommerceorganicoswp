@@ -1,0 +1,177 @@
+2022-08-16T18:24:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7428b310552377103523da826d766235
+            [Date] => 16 de Agosto de 2022 @ 18:24
+            [URL] => https://www.bling.com.br/Api/v2/webhook/woocommerce/204144979/products
+            [Duration] => 4.69248
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/6.8.0 Hookshot (WordPress/6.0.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://organicoszerogluten.com.br/
+                            [X-WC-Webhook-Topic] => product.created
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ZB1i0NBExHStRJnvaJty2VArS1pkWUvLW9NHwlfchsA=
+                            [X-WC-Webhook-ID] => 9
+                            [X-WC-Webhook-Delivery-ID] => 7428b310552377103523da826d766235
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 16 Aug 2022 18:24:11 GMT
+                                    [content-type] => application/xml
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, public, must-revalidate, max-age=2592000
+                                    [cf-cache-status] => DYNAMIC
+                                    [expect-ct] => max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                                    [strict-transport-security] => max-age=31536000
+                                    [referrer-policy] => strict-origin-when-cross-origin
+                                    [x-content-type-options] => nosniff
+                                    [x-frame-options] => SAMEORIGIN
+                                    [server] => cloudflare
+                                    [cf-ray] => 73bc347c1c37aa76-DFW
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-08-16T18:24:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 854c4c4edb7204cbf356644e9c2036ff
+            [Date] => 16 de Agosto de 2022 @ 18:24
+            [URL] => https://www.bling.com.br/Api/v2/webhook/woocommerce/204144979/products
+            [Duration] => 0.35753
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/6.8.0 Hookshot (WordPress/6.0.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://organicoszerogluten.com.br/
+                            [X-WC-Webhook-Topic] => product.created
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => re9nPb/w82IOzx/8XK6T2Ttf53Mjw5bPc/XaeVQe5QA=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 854c4c4edb7204cbf356644e9c2036ff
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 16 Aug 2022 18:24:11 GMT
+                                    [content-type] => application/xml
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, public, must-revalidate, max-age=2592000
+                                    [cf-cache-status] => DYNAMIC
+                                    [expect-ct] => max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                                    [strict-transport-security] => max-age=31536000
+                                    [referrer-policy] => strict-origin-when-cross-origin
+                                    [x-content-type-options] => nosniff
+                                    [x-frame-options] => SAMEORIGIN
+                                    [server] => cloudflare
+                                    [cf-ray] => 73bc34989e166755-DFW
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-08-16T18:24:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0710593fbb716a385b63080d774ee34d
+            [Date] => 16 de Agosto de 2022 @ 18:24
+            [URL] => https://www.bling.com.br/Api/v2/webhook/woocommerce/204144979/products
+            [Duration] => 0.35605
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/6.8.0 Hookshot (WordPress/6.0.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://organicoszerogluten.com.br/
+                            [X-WC-Webhook-Topic] => product.created
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => LVJwnZf+L/S+Mw1Z2RGCw9/pycmAnHuZAbcGvlXN3Lc=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 0710593fbb716a385b63080d774ee34d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 16 Aug 2022 18:24:12 GMT
+                                    [content-type] => application/xml
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, public, must-revalidate, max-age=2592000
+                                    [cf-cache-status] => DYNAMIC
+                                    [expect-ct] => max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                                    [strict-transport-security] => max-age=31536000
+                                    [referrer-policy] => strict-origin-when-cross-origin
+                                    [x-content-type-options] => nosniff
+                                    [x-frame-options] => SAMEORIGIN
+                                    [server] => cloudflare
+                                    [cf-ray] => 73bc349aca0093e6-DFW
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
